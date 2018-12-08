@@ -58,7 +58,4 @@ Berita BianDj adalah CMS yang kami buat dan&nbsp;dengan PHP dan jQuery. Dan hing
 
 <p><span style="color:#ff0066"><strong><img alt="" src="https://www.biandj.com/jual/biandj4.jpg" style="height:50%; width:100%" /></strong></span></p>
 
-<p>Dan Untuk sobat yang ingin merasakan Citarasa dari CMS BianDj V 3.0&nbsp;&ndash; Three Color Tunggul Responsive Template, maka Silahkan pergi ke halaman <strong><a href="https://www.biandj.com/">Download</a></strong>. Untuk nama filenya sendiri adalah <strong><a href="https://www.biandj.com/download.html">Script_Cms_BianDj</a></strong> atau menghubungi saya&nbsp;melalui email : bianity.co.id@gmail.com. Sampai jumpa lagi di artikel selanjutnya. Insya allah dengan artikel yang jauh lebih menarik lagi.</p>
-
-
-BianDj V 3.0 yaitu&nbsp;<span style="color:#FF0000"><strong>Red</strong></span>,&nbsp;<span style="color:#008000"><strong>Green</strong></span>,&nbsp;<span style="color:#0000FF"><strong>Blue</strong></span>,&nbsp;<span style="color:#FF8C00"><strong>Orange</strong></span>,&nbsp;<span style="color:#4B0082"><strong>Purple</strong></span>,&nbsp;<span style="color:#ff0099"><strong>Pink</strong></span>, dan&nbsp;<span style="color:#000000"><strong>Black</strong></span>.&nbsp;</p>
+<p>Dan Untuk sobat yang ingin merasakan Citarasa dari CMS BianDj V 3.0&nbsp;&ndash; Three Color Tunggul Responsive Template, maka Silahkan pergi ke halaman <strong><a href="https://www.biandj.com/">Download</a></strong>. Untuk nama filenya sendiri adalah <strong><a href="https://www.biandj.com/download.html">Script_Cms_BianDj</a></strong> atau menghubungi saya&nbsp;melalui email : bianity.co.id@gmail.com.</p>

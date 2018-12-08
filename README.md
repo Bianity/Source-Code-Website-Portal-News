@@ -58,4 +58,9 @@ Berita BianDj adalah CMS yang kami buat dan&nbsp;dengan PHP dan jQuery. Dan hing
 
 <p><span style="color:#ff0066"><strong><img alt="" src="https://www.biandj.com/jual/biandj4.jpg" style="height:50%; width:100%" /></strong></span></p>
 
-<p>Dan Untuk sobat yang ingin merasakan Citarasa dari CMS BianDj V 3.0&nbsp;&ndash; Three Color Tunggul Responsive Template, maka Silahkan pergi ke halaman <strong><a href="https://www.biandj.com/">Download</a></strong>. Untuk nama filenya sendiri adalah <strong><a href="https://www.biandj.com/download.html">Script_Cms_BianDj</a></strong> atau menghubungi saya&nbsp;melalui email : bianity.co.id@gmail.com. Kalian juga bisa mampir untuk ngobrol secara langsung dengan saya di <strong><a href="https://www.bianity.com/">Bianity.com</a></strong></p>
+<p>Dan Untuk sobat yang ingin merasakan Citarasa dari CMS BianDj V 3.0&nbsp;&ndash; Three Color Tunggul Responsive Template, maka Silahkan pergi ke halaman <strong><a href="https://www.biandj.com/">Download</a></strong>. Untuk nama filenya sendiri adalah <strong><a href="https://www.biandj.com/download.html">Script_Cms_BianDj</a></strong> atau menghubungi saya&nbsp;melalui email : bianity.co.id@gmail.com. Kalian juga bisa mampir untuk ngobrol secara langsung dengan saya di <strong><a href="https://www.bianity.com/">Bianity.com</a></strong>.</p>
+
+Regards
+
+<li>CEO Founder:</li>
+<strong>Bian Dinnurjand</strong>

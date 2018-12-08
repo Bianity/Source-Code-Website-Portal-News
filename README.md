@@ -62,5 +62,4 @@ Berita BianDj adalah CMS yang kami buat dan&nbsp;dengan PHP dan jQuery. Dan hing
 
 Regards
 
-<li>CEO Founder:</li>
-<strong>Bian Dinnurjand</strong>
+<li>CEO Founder:</li> <strong>Bian Dinnurjand</strong>

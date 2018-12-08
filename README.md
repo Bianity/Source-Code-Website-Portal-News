@@ -5,7 +5,7 @@ Berita BianDj adalah CMS yang kami buat dan dengan PHP dan jQuery. Dan hingga sa
 
 Pada CMS BianDj V.3.0 Terdapat fitur yang jauh lebih banyak  yang Super WOW! dengan PHP dan jQuery.
 
-Jenis Fitur Website
+Jenis Fitur Website<br/>
 
 Halaman Unlimited
 Menu Multilevel Megamenu

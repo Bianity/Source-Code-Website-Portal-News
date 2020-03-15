@@ -1,9 +1,9 @@
 # Source Code Website Portal Berita
 Download Source Code Website Portal Berita
 
-Berita BianDj adalah CMS yang kami buat dan&nbsp;dengan PHP dan jQuery. Dan hingga saat ini CMS BianDj&nbsp;sudah di kembangkan lebih jauh lagi oleh <a href="https://www.bianity.com"><strong>Bianity</strong></a> mulai dari perbaikan bug dan tampilan dan lain sebagainya. Dan template yang digunakan saat ini juga sudah Responsive, Apa itu responsive ? responsive pada template adalah ketika template dijalankan menggunakan berbagai media seperti tablet, iphone dan berbagai ukuran layar makan ukuran template akan otomatis mengikuti ukuran layar. Nama Template yang digunakan adalah Template Premium Allegro yang memang sudah ada di internet dan di sesuaikan dengan CMS BianDj, saat ini terdapat 7 warna pilihan pada CMS BianDj V 3.0 yaitu <strong>Red</strong>, <strong>Green</strong>, <strong>Blue</strong>, <strong>Orange</strong>, <strong>Purple</strong>, <strong>Pink</strong>, dan <strong>Black</strong>.
+Medialova adalah CMS yang kami buat dan&nbsp;dengan PHP dan jQuery. Dan hingga saat ini CMS Medialova&nbsp;sudah di kembangkan lebih jauh lagi oleh <a href="https://www.medialova.com/"><strong>Bianity</strong></a> mulai dari perbaikan bug dan tampilan dan lain sebagainya. Dan template yang digunakan saat ini juga sudah Responsive, Apa itu responsive ? responsive pada template adalah ketika template dijalankan menggunakan berbagai media seperti tablet, iphone dan berbagai ukuran layar makan ukuran template akan otomatis mengikuti ukuran layar. Nama Template yang digunakan adalah Template Premium All-Medialova yang belum pernah ada di internet dan di sesuaikan dengan CMS Medialova, saat ini terdapat 2 warna pilihan pada CMS Medilova V 3.0 yaitu <strong>Black</strong>, <strong>White</strong>.
 
-<p>Pada CMS BianDj V.3.0&nbsp;Terdapat fitur yang jauh lebih banyak&nbsp; yang Super WOW! dengan PHP dan jQuery.</p>
+<p>Pada CMS Medialova V.3.0&nbsp;Terdapat fitur yang jauh lebih banyak&nbsp; yang Super WOW! dengan PHP dan jQuery.</p>
 <br />
 <p>Jenis Fitur Website</strong></p>
 
@@ -29,38 +29,37 @@ Berita BianDj adalah CMS yang kami buat dan&nbsp;dengan PHP dan jQuery. Dan hing
 	<li><span style="color:#ff0099">Modul Rating</span></li>
 	<li><span style="color:#ff0099">Modul Facebook Fan Page</span></li>
 	<li><span style="color:#ff0099">Modul Share Social Media</span></li>
-	<li><span style="color:#ff0099">Modul Yahoo Messenger</span></li>
 	<li><span style="color:#ff0099">Statistik Pengunjung</span></li>
-	<li><span style="color:#ff0099">Submit ke beberapa search engine seperti Google, Yahoo</span></li>
-	<li><span style="color:#ff0099">Halaman tksistrator untuk mengelola website untuk memperbaharui dengan mudah isi website anda. Kami telah menggunakan CMS sendiri (bukan open source seperti Joomla/Wordpress), sehingga memudahkan anda dalam mengelola dan mengupdate konten website walaupun anda orang awam sekalipun.</span></li>
+	<li><span style="color:#ff0099">Submit ke beberapa search engine seperti Google, Yahoo. Yandex, Bing</span></li>
+	<li><span style="color:#ff0099">Halaman tksistrator untuk mengelola website untuk memperbaharui dengan mudah isi website anda. Kami telah menggunakan CMS sendiri (bukan open source seperti Joomla/Wordpress), sehingga memudahkan Anda dalam mengelola dan mengupdate konten website walaupun anda orang awam sekalipun.</span></li>
 	<li><span style="color:#ff0099">Multiuser tksistrator, dan bisa dibagi dalam beberapa tingkatan hak tksistrator</span></li>
-	<li><span style="color:#ff0099">WYSIWYG HTML Editor (untuk memudahkan anda dalam mengubah konten, seperti halnya anda menggunakan Microsoft Word)</span></li>
-	<li><span style="color:#ff0099">CMS SEO Friendly (memudahkan website anda untuk dikenali oleh mesin pencari seperti Google dan Yahoo!)</span></li>
+	<li><span style="color:#ff0099">WYSIWYG HTML Editor (untuk memudahkan Anda dalam mengubah konten, seperti halnya anda menggunakan Microsoft Word)</span></li>
+	<li><span style="color:#ff0099">CMS SEO Friendly (memudahkan website Anda untuk dikenali oleh mesin pencari seperti Google, Yandex, Bing dan Yahoo!)</span></li>
 </ol>
 </div><br />
 <br />
 <p>Berikut beberapa tampilan screenshot dibawah ini.</p>
 
+<p><span style="color:#ff0066"><strong>Cover Medialova</strong></span></p>
+
+
+<p><img alt="SCRIPT NEWS CMS" src="https://1.bp.blogspot.com/-wL-cHJhaGYk/Xm6OcaouMuI/AAAAAAAAACk/7ov6onAMnhg7K3PDmR0ZqG8-QTnn-57dwCLcBGAsYHQ/s1600/cover.jpg" style="height:50%; width:100%" /></p>
+
 <p><span style="color:#ff0066"><strong>Halaman Beranda</strong></span></p>
 
+<p><img alt="" src="https://1.bp.blogspot.com/-r_b4WrOlhpo/Xm6PogjjyMI/AAAAAAAAACs/_KEanho0-Uc9VD7PoZc5Zzz3n9b8mVJDwCLcBGAsYHQ/s1600/medialova.png" style="height:50%; width:100%" /></p>
 
-<p><img alt="SCRIPT NEWS CMS" src="https://www.biandj.com/img_berita/41DownloadSourceCodeWebsitePortalBerita.jpg" style="height:50%; width:100%" /></p>
+<p><span style="color:#ff0066"><strong>Halaman Berita</strong></span></p>
 
-<p><span style="color:#ff0066"><strong>Halaman Menu Artikel</strong></span></p>
+<p><span style="color:#ff0066"><strong><img alt="" src="https://1.bp.blogspot.com/-WLTtrThmN2s/Xm6PrIYaR2I/AAAAAAAAACw/owL2rGbyBZMqLwP6cVUsHGH3qUKjkSDsQCLcBGAsYHQ/s1600/medialovacom.png" style="height:50%; width:100%" /></strong></span></p>
 
-<p><img alt="" src="https://www.biandj.com/img_berita/DownloadSourceCodeWebsitePortalBerita1.jpg" style="height:50%; width:100%" /></p>
+<p><span style="color:#ff0066"><strong>Akhir Halaman (Footer</strong></span></p>
 
-<p><span style="color:#ff0066"><strong>Halaman Fitur Download</strong></span></p>
+<p><span style="color:#ff0066"><strong><img alt="" src="https://1.bp.blogspot.com/-kIWSiI4auz8/Xm6PtdY-QYI/AAAAAAAAAC0/PUvf8HS8-hsse2vBtgmQ-OA2di-MuWCtgCLcBGAsYHQ/s1600/medialova_2.png" style="height:50%; width:100%" /></strong></span></p>
 
-<p><span style="color:#ff0066"><strong><img alt="" src="https://www.biandj.com/img_berita/DownloadSourceCodeWebsitePortalBerita2.jpg" style="height:50%; width:100%" /></strong></span></p>
+<p>Untuk Demo Anda bisa lihat disini: <strong><a href="https://www.medialova.com/">DEMO</a></strong></p>
 
-<p><span style="color:#ff0066"><strong>Halaman Maintenance</strong></span></p>
-
-<p><span style="color:#ff0066"><strong><img alt="" src="https://www.biandj.com/jual/biandj4.jpg" style="height:50%; width:100%" /></strong></span></p>
-
-<p>Untuk Demo Anda bisa lihat disini: <strong><a href="https://www.biandj.com/">DEMO</a></strong></p>
-
-<p>Dan Untuk sobat yang ingin merasakan Citarasa dari CMS BianDj V 3.0&nbsp;&ndash; Three Color Tunggul Responsive Template, maka Silahkan pergi ke halaman <strong><a href="https://www.biandj.com/">Download</a></strong>. Untuk nama filenya sendiri adalah <strong><a href="https://www.biandj.com/download.html">Script_Cms_BianDj</a></strong> atau menghubungi saya&nbsp;melalui email : bianity.co.id@gmail.com. Kalian juga bisa mampir untuk ngobrol secara langsung dengan saya di <strong><a href="https://www.bianity.com/">Bianity.com</a></strong>.</p>
+<p>Dan Untuk sobat yang ingin merasakan Citarasa dari CMS Medialova V 3.0&nbsp;&ndash; Three Color Tunggul Responsive Template, maka Silahkan pergi ke halaman <strong><a href="https://www.medialova.com/">Download</a></strong>. Untuk nama filenya sendiri adalah <strong><a href="https://www.medialova.com/download.html">Script_Cms_Medialova</a></strong> atau menghubungi saya&nbsp;melalui email : tanya@medialova.com. Kalian juga bisa mampir untuk ngobrol secara langsung dengan saya di <strong><a href="https://room.medialova.com/">Platform Room Chat</a></strong>.</p>
 
 Regards
 

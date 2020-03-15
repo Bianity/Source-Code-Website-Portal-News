@@ -63,4 +63,4 @@ Medialova adalah CMS yang kami buat dan&nbsp;dengan PHP dan jQuery. Dan hingga s
 
 Regards
 
-<u>CEO Founder:</u> <strong>Bian Dinnurjand</strong>
+<u>CEO Founder:</u> <strong>Bian Dinnurjand</strong> - <a href="https://www.medialova.com/"><strong>Medialova.com</strong></a>

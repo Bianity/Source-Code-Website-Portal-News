@@ -1,7 +1,7 @@
-# Source Code Website Portal Berita
+# Source Code Website Portal Media News
 Download Source Code Website Portal Berita
 
-Medialova adalah CMS yang kami buat dan&nbsp;dengan PHP dan jQuery. Dan hingga saat ini CMS Medialova&nbsp;sudah di kembangkan lebih jauh lagi oleh <a href="https://www.medialova.com/"><strong>Bianity</strong></a> mulai dari perbaikan bug dan tampilan dan lain sebagainya. Dan template yang digunakan saat ini juga sudah Responsive, Apa itu responsive ? responsive pada template adalah ketika template dijalankan menggunakan berbagai media seperti tablet, iphone dan berbagai ukuran layar makan ukuran template akan otomatis mengikuti ukuran layar. Nama Template yang digunakan adalah Template Premium All-Medialova yang belum pernah ada di internet dan di sesuaikan dengan CMS Medialova, saat ini terdapat 2 warna pilihan pada CMS Medilova V 3.0 yaitu <strong>Black</strong>, <strong>White</strong>.
+Medialova adalah CMS yang kami buat dan&nbsp;dengan PHP dan jQuery. Dan hingga saat ini CMS Medialova&nbsp;sudah di kembangkan lebih jauh lagi oleh <a href="https://www.medialova.com/"><strong>Medialova</strong></a> mulai dari perbaikan bug dan tampilan dan lain sebagainya. Dan template yang digunakan saat ini juga sudah Responsive, Apa itu responsive ? responsive pada template adalah ketika template dijalankan menggunakan berbagai media seperti tablet, iphone dan berbagai ukuran layar makan ukuran template akan otomatis mengikuti ukuran layar. Nama Template yang digunakan adalah Template Premium All-Medialova yang belum pernah ada di internet dan di sesuaikan dengan CMS Medialova, saat ini terdapat 2 warna pilihan pada CMS Medilova V 3.0 yaitu <strong>Black</strong>, <strong>White</strong>.
 
 <p>Pada CMS Medialova V.3.0&nbsp;Terdapat fitur yang jauh lebih banyak&nbsp; yang Super WOW! dengan PHP dan jQuery.</p>
 <br />

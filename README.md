@@ -3,6 +3,10 @@ Download Source Code Website Portal Berita
 
 Medialova adalah CMS yang kami buat dan&nbsp;dengan PHP dan jQuery. Dan hingga saat ini CMS Medialova&nbsp;sudah di kembangkan lebih jauh lagi oleh <a href="https://www.medialova.com/"><strong>Medialova</strong></a> mulai dari perbaikan bug dan tampilan dan lain sebagainya. Dan template yang digunakan saat ini juga sudah Responsive, Apa itu responsive ? responsive pada template adalah ketika template dijalankan menggunakan berbagai media seperti tablet, iphone dan berbagai ukuran layar makan ukuran template akan otomatis mengikuti ukuran layar. Nama Template yang digunakan adalah Template Premium All-Medialova yang belum pernah ada di internet dan di sesuaikan dengan CMS Medialova, saat ini terdapat 2 warna pilihan pada CMS Medilova V 3.0 yaitu <strong>Black</strong>, <strong>White</strong>.
 
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://2.bp.blogspot.com/-k2Yqke0C_8w/Xt0vA2vHKjI/AAAAAAAAAEQ/ugArm2F7rhYJJBMVU3PofM0J7JNE59R8QCLcBGAsYHQ/s1600/medialova.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1600" data-original-width="277" src="https://2.bp.blogspot.com/-k2Yqke0C_8w/Xt0vA2vHKjI/AAAAAAAAAEQ/ugArm2F7rhYJJBMVU3PofM0J7JNE59R8QCLcBGAsYHQ/s1600/medialova.png" /></a></div>
+
+
 <p>Pada CMS Medialova V.3.0&nbsp;Terdapat fitur yang jauh lebih banyak&nbsp; yang Super WOW! dengan PHP dan jQuery.</p>
 <br />
 <p>Jenis Fitur Website</strong></p>

@@ -1,93 +1,146 @@
-# Source Code Website Portal Media News
-Download Source Code Website Portal Berita
+<p><img src="https://1.bp.blogspot.com/-EC17o-aoZ7c/X85uL6mPG0I/AAAAAAAAAUw/S1Cj5YFujgE1oHjYvVBtC07jQ3iiTdGiQCLcBGAsYHQ/s900/01_preview-1.jpg" style="width: 100%;"></p>
 
-Medialova adalah CMS yang kami buat dan&nbsp;dengan PHP dan jQuery. Dan hingga saat ini CMS Medialova&nbsp;sudah di kembangkan lebih jauh lagi oleh <a href="https://www.medialova.com/"><strong>Medialova</strong></a> mulai dari perbaikan bug dan tampilan dan lain sebagainya. Dan template yang digunakan saat ini juga sudah Responsive, Apa itu responsive ? responsive pada template adalah ketika template dijalankan menggunakan berbagai media seperti tablet, iphone dan berbagai ukuran layar makan ukuran template akan otomatis mengikuti ukuran layar. Nama Template yang digunakan adalah Template Premium All-Medialova yang belum pernah ada di internet dan di sesuaikan dengan CMS Medialova, saat ini terdapat 2 warna pilihan pada CMS Medilova V 3.0 yaitu <strong>Black</strong>, <strong>White</strong>.
+<p><b><a href="https://www.medialova.com/post/platform-blog-news-cms" target="_blank">Platform &amp; Blog News Cms</a></b> adalah script PHP yang sepenuhnya responsive &amp; multiguna dengan tampilan yang super elegant dibalut warna-warna gradien, tentunya hal ini akan membuat kreator semakin betah dalam mengerjakan projectnya. Platform ini bisa digunakan untuk blog, portofolio, atau apapun. Dengan dasbor yang lebih canggih, Anda dapat melihat siapa yang mengunjungi situs web Anda, negara mereka, halaman mana yang paling menarik bagi mereka, perangkat apa yang mereka gunakan, sistem operasi ... dan banyak lagi.</p>
 
-<p><span style="color:#ff0066"><strong><img alt="" src="https://3.bp.blogspot.com/-LbVHh0m035Y/Xt0y_9mI3DI/AAAAAAAAAEk/IBm1k36pQVcth1erqsB70Fg74Fxe6SqhgCLcBGAsYHQ/s1600/1.png" style="height:50%; width:100%" /></strong></span></p>
+<p>Platform ini memiliki generator peta situs otomatis, mendukung buletin, banyak peran pengguna (administrator, penulis dan moderator), memiliki sistem pemulihan untuk posting, halaman, komentar Anda ..., Anda dapat menambahkan halaman sebanyak yang Anda inginkan, kategori dan subkategori , menu navigasi yang dapat diurutkan, beberapa gaya tema (gelap &amp; terang), waktu pemuatan cepat, ramah seo, mudah dipasang dan mudah digunakan, dan banyak lagi.</p>
 
-<p><span style="color:#ff0066"><strong><img alt="" src="https://2.bp.blogspot.com/-C-G_HHp16yc/Xt0zA8lZ2LI/AAAAAAAAAEw/Fu0jGzi12MUOWUKNEA9v2nLa5IGCkCD9gCLcBGAsYHQ/s1600/2.png" style="height:50%; width:100%" /></strong></span></p>
+<p><img src="https://1.bp.blogspot.com/-_yeuW8NE3l8/X85pE_BK0HI/AAAAAAAAATA/vYi301L-0eo3J9xP074LZj0S4zABUM02QCLcBGAsYHQ/s2007/preview-dark-1.png" style="width: 100%;"></p><img src="https://1.bp.blogspot.com/-Nz9n07IWXWY/X85pGR_WpXI/AAAAAAAAATM/6uEKIQITVbUOyUxxAYNW5_tPHvPbfumSwCLcBGAsYHQ/s4301/preview-dark-2.png" style="width: 687.625px;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
 
-<p><span style="color:#ff0066"><strong><img alt="" src="https://1.bp.blogspot.com/-AzleXbJXGBY/Xt0zBD6BijI/AAAAAAAAAE0/xG6QCGGsJZkrekV3HuWSI6RBMjlE64HOACLcBGAsYHQ/s1600/3.png" style="height:50%; width:100%" /></strong></span></p>
-
-<p><span style="color:#ff0066"><strong><img alt="" src="https://3.bp.blogspot.com/-YJBrQR8F5Ug/Xt0zBaqE0sI/AAAAAAAAAE4/YcPUa1-FBo4SH_T46O7MvdYiFktAIYqugCLcBGAsYHQ/s1600/4.png" style="height:50%; width:100%" /></strong></span></p>
-
-<p><span style="color:#ff0066"><strong><img alt="" src="https://2.bp.blogspot.com/-7sSlzJqmbiQ/Xt0zBiKrbbI/AAAAAAAAAE8/b66bX_u-1ykFd1fcRDbdiefD6U4CtSqjACLcBGAsYHQ/s1600/5.png" style="height:50%; width:100%" /></strong></span></p>
-
-<p><span style="color:#ff0066"><strong><img alt="" src="https://3.bp.blogspot.com/-5fzbwq950FE/Xt0zCNwhwmI/AAAAAAAAAFE/lXYJsG38sjkBh2uJO2CcC55oFbLvzHs6wCLcBGAsYHQ/s1600/6.png" style="height:50%; width:100%" /></strong></span></p>
-
-<p><span style="color:#ff0066"><strong><img alt="" src="https://4.bp.blogspot.com/-DDUoNp0AfBA/Xt0zB9vaDPI/AAAAAAAAAFA/ajrcqG9TsW0B_Y_ASfCTyHOTm18dItgRACLcBGAsYHQ/s1600/7.png" style="height:50%; width:100%" /></strong></span></p>
-
-<p><span style="color:#ff0066"><strong><img alt="" src="https://1.bp.blogspot.com/-emypy4Qi3PY/Xt0zCSdF0mI/AAAAAAAAAFI/rZqxi6sQK5kFidX3URz3OEAT9CHhDIDQACLcBGAsYHQ/s1600/8.png" style="height:50%; width:100%" /></strong></span></p>
-
-<p><span style="color:#ff0066"><strong><img alt="" src="https://4.bp.blogspot.com/-7A1WVORI7Xk/Xt0zC7gheGI/AAAAAAAAAFM/Qbp2eV4Y6PAZhJ2KupO5Cg0GjPbuzdEqACLcBGAsYHQ/s1600/9.png" style="height:50%; width:100%" /></strong></span></p>
-
-<p><span style="color:#ff0066"><strong><img alt="" src="https://4.bp.blogspot.com/-iCZh4X1fSfc/Xt0y_4JqjoI/AAAAAAAAAEg/5w7uqN9Eg6kq3eMNATrNgVfX0NcXbr4yACLcBGAsYHQ/s1600/10.png" style="height:50%; width:100%" /></strong></span></p>
-
-<p><span style="color:#ff0066"><strong><img alt="" src="https://1.bp.blogspot.com/-2xvoLnM6fj8/Xt0y_gmR2kI/AAAAAAAAAEc/qO_1qqjY0LQxZ4juTlEGSK5He06dngkVgCLcBGAsYHQ/s1600/11.png" style="height:50%; width:100%" /></strong></span></p>
-
-<p><span style="color:#ff0066"><strong><img alt="" src="https://4.bp.blogspot.com/-vf7Ba4C2eGk/Xt0zAZ2NWZI/AAAAAAAAAEo/FH7BaNdsDl80js9f6OAzg1u4OkHhVt13wCLcBGAsYHQ/s1600/12.png" style="height:50%; width:100%" /></strong></span></p>
-
-<p><span style="color:#ff0066"><strong><img alt="" src="https://1.bp.blogspot.com/--fcWpEHiJHU/Xt0zAt8AoNI/AAAAAAAAAEs/_DpMxdQjYugwObNT-dYGxzX1bHD4PicsgCLcBGAsYHQ/s1600/13.png" style="height:50%; width:100%" /></strong></span></p>
+</font></font><p><img src="https://1.bp.blogspot.com/-sswSel8Ng_Q/X8uUk76gTBI/AAAAAAAAAOo/k1G7_W_VR2wAzGRLmbbalV4jkj3DjcBmgCLcBGAsYHQ/s4306/features-asli.jpg" style="width: 100%;"></p><img src="https://1.bp.blogspot.com/-S8240oi2iBg/X85pFzgY10I/AAAAAAAAATI/ciYfRgf8m8Y88ORPUtDUowaQe7Sd-DPMwCLcBGAsYHQ/s1010/preview-dark-3.png" style="width: 100%;"><p></p><p><img src="https://1.bp.blogspot.com/-MmY9K021cm4/X85pF9b-EXI/AAAAAAAAATE/PP6X1Dxld3ETgDqxvYWXDljD077lWg77wCLcBGAsYHQ/s1004/preview-dark-4.png" style="width: 100%;">
 
 
-<p>Pada CMS Medialova V.3.0&nbsp;Terdapat fitur yang jauh lebih banyak&nbsp; yang Super WOW! dengan PHP dan jQuery.</p>
-<br />
-<p>Jenis Fitur Website</strong></p>
+</p><h2>Fitur utama :</h2>
 
-<div class="fitur" style="background:#eee;border:1px solid #ccc;padding:5px 10px;">
-<ol>
-	<li><span style="color:#ff0099">Halaman Unlimited</span></li>
-	<li><span style="color:#ff0099">Menu Multilevel Megamenu</span></li>
-	<li><span style="color:#ff0099">1 (satu) Template Responsive</span></li>
-	<li><span style="color:#ff0099">Berita Unlimited</span></li>
-	<li><span style="color:#ff0099">Kategori Berita Unlimited</span></li>
-	<li><span style="color:#ff0099">Berita Terpopuler</span></li>
-	<li><span style="color:#ff0099">Berita Utama</span></li>
-	<li><span style="color:#ff0099">Berita Pilihan</span></li>
-	<li><span style="color:#ff0099">Pencarian Berita</span></li>
-	<li><span style="color:#ff0099">Komentar (Email Sender)</span></li>
-	<li><span style="color:#ff0099">Agenda</span></li>
-	<li><span style="color:#ff0099">Poling/Jajak Pendapat</span></li>
-	<li><span style="color:#ff0099">Form Kontak (Email Sender)</span></li>
-	<li><span style="color:#ff0099">Galeri Video</span></li>
-	<li><span style="color:#ff0099">Galeri Berita Foto</span></li>
-	<li><span style="color:#ff0099">Banner/Iklan</span></li>
-	<li><span style="color:#ff0099">Modul Newsletter</span></li>
-	<li><span style="color:#ff0099">Modul Rating</span></li>
-	<li><span style="color:#ff0099">Modul Facebook Fan Page</span></li>
-	<li><span style="color:#ff0099">Modul Share Social Media</span></li>
-	<li><span style="color:#ff0099">Statistik Pengunjung</span></li>
-	<li><span style="color:#ff0099">Submit ke beberapa search engine seperti Google, Yahoo. Yandex, Bing</span></li>
-	<li><span style="color:#ff0099">Halaman tksistrator untuk mengelola website untuk memperbaharui dengan mudah isi website anda. Kami telah menggunakan CMS sendiri (bukan open source seperti Joomla/Wordpress), sehingga memudahkan Anda dalam mengelola dan mengupdate konten website walaupun anda orang awam sekalipun.</span></li>
-	<li><span style="color:#ff0099">Multiuser tksistrator, dan bisa dibagi dalam beberapa tingkatan hak tksistrator</span></li>
-	<li><span style="color:#ff0099">WYSIWYG HTML Editor (untuk memudahkan Anda dalam mengubah konten, seperti halnya anda menggunakan Microsoft Word)</span></li>
-	<li><span style="color:#ff0099">CMS SEO Friendly (memudahkan website Anda untuk dikenali oleh mesin pencari seperti Google, Yandex, Bing dan Yahoo!)</span></li>
-</ol>
-</div><br />
-<br />
-<p>Berikut beberapa tampilan screenshot dibawah ini.</p>
+<ul>
+<li> Sistem aman. </li>
+<li> Desain responsif (dengan Semantic-ui). </li>
+<li> Kelola pengguna (penulis, moderator, ...) dengan mudah. ​​</li>
+<li> Ruang Iklan Responsif (google adsense, perusahaan periklanan lain). </li>
+<li> Iklan pop-up (PopAds, PopCash ...). </li>
+<li> Buletin. </li>
+<li> Ramah SEO. </li>
+<li> Menu navigasi yang dapat diurutkan. </li>
+<li> Kategori dan subkategori. </li>
+<li> Dasbor yang luar biasa dan canggih. </li>
+<li> Generator peta situs otomatis. </li>
+<li> Opsi visibilitas untuk posting, halaman, kategori, dan subkategori. </li>
+<li> Blokir, Aktifkan opsi untuk pengguna. </li>
+<li> Analisis Google. </li>
+<li> Moderasi komentar. </li>
+<li> Otentikasi aman. </li>
+<li> Instal cPanel. </li>
+<li> Pos unggulan Korea Selatan. </li>
+<li> Halaman tak terbatas. </li>
+<li> Dokumentasi terperinci. </li>
+<li> Widget arsip posting. </li>
+<li> Pos &amp; amp; Komentar oleh pengguna. </li>
+<li> Berbagi di media sosial (twitter, pinterest, ...). </li>
+<li> Mengembalikan item yang dihapus (posting, halaman, ...). </li>
+<li> Gelap &amp; amp; Tema Terang. </li>
+<li> Formulir kontak. </li>
+<li> Editor WYSIWYG untuk postingan, halaman, dan buletin. </li>
+<li> Widget postingan populer. </li>
+<li> Widget komentar terbaru. </li>
+<li> Widget kiriman acak. </li>
+<li> Widget posting oleh penulis. </li>
+<li> Pencarian. Beranda yang bagus. </li>
+<li> Tampilkan / Sembunyikan bilah gulir. </li>
+<li> Peringkat postingan. </li>
+<li> Posting serupa. </li>
+<li> Setel ulang sandi.
+Verifikasi email. </li>
+<li> Sistem cache basis data. </li>
+<li> Formulir Kontributor. </li>
+<li> Poin / Rupiah (Kontributor). </li>
+<li> Penarikan (Menarik dana). </li>
+<li> Pasang Iklan (Premium). </li>
+<li> Aplikasi Android (Pembaruan Tidak Terbatas). </li>
+<li> Aplikasi Komputer Windows (Pembaruan Tak Terbatas). </li>
+<li> Dan banyak fitur lainnya. </li>
+</ul>
 
-<p><span style="color:#ff0066"><strong>Cover Medialova</strong></span></p>
+
+<h2> Keamanan: </h2>
+
+<ul>
+<li> Pencegahan injeksi SQL. </li>
+<li> Pencegahan pembajakan sesi. </li>
+<li> Pencegahan fiksasi sesi. </li>
+<li> Pencegahan pemalsuan permintaan lintas situs (CSRF). </li>
+<li> Pencegahan Cross Site Scripting (XSS). </li>
+<li> hash menggunakan algoritme ARGON2I. </li>
+</ul>
 
 
-<p><img alt="SCRIPT NEWS CMS" src="https://1.bp.blogspot.com/-wL-cHJhaGYk/Xm6OcaouMuI/AAAAAAAAACk/7ov6onAMnhg7K3PDmR0ZqG8-QTnn-57dwCLcBGAsYHQ/s1600/cover.jpg" style="height:50%; width:100%" /></p>
+<h2> Persyaratan: </h2>
 
-<p><span style="color:#ff0066"><strong>Halaman Beranda</strong></span></p>
+<ul>
+<li> PHP 7.2 atau lebih tinggi. </li>
+<li> MySQL 5.7 atau lebih tinggi. </li>
+<li> Mod_rewrite diaktifkan. </li>
+<li> Ekstensi OpenSSL. </li>
+<li> Ekstensi Intl. </li>
+<li> Ekstensi CURL. </li>
+</ul>
 
-<p><img alt="" src="https://1.bp.blogspot.com/-r_b4WrOlhpo/Xm6PogjjyMI/AAAAAAAAACs/_KEanho0-Uc9VD7PoZc5Zzz3n9b8mVJDwCLcBGAsYHQ/s1600/medialova.png" style="height:50%; width:100%" /></p>
 
-<p><span style="color:#ff0066"><strong>Halaman Berita</strong></span></p>
 
-<p><span style="color:#ff0066"><strong><img alt="" src="https://1.bp.blogspot.com/-WLTtrThmN2s/Xm6PrIYaR2I/AAAAAAAAACw/owL2rGbyBZMqLwP6cVUsHGH3qUKjkSDsQCLcBGAsYHQ/s1600/medialovacom.png" style="height:50%; width:100%" /></strong></span></p>
+<p><img src="https://1.bp.blogspot.com/-bosoOnfaFwM/X85pI_tIWvI/AAAAAAAAATk/UvjUOIBAkEEP7YGkafPQWYG32SmOMFHrgCLcBGAsYHQ/s2048/preview-page-admin-5.png" style="width: 100%;"></p><br>
 
-<p><span style="color:#ff0066"><strong>Akhir Halaman (Footer</strong></span></p>
 
-<p><span style="color:#ff0066"><strong><img alt="" src="https://1.bp.blogspot.com/-kIWSiI4auz8/Xm6PtdY-QYI/AAAAAAAAAC0/PUvf8HS8-hsse2vBtgmQ-OA2di-MuWCtgCLcBGAsYHQ/s1600/medialova_2.png" style="height:50%; width:100%" /></strong></span></p>
+<p> <a href="https://www.stori.id/" target="_blank"> <b> Demo: Versi situs web </b> </a> </p>
 
-<p>Untuk Demo Anda bisa lihat disini: <strong><a href="https://www.medialova.com/">DEMO</a></strong></p>
+<p> <a href="https://play.google.com/store/apps/details?id=com.medialova.id" target="_blank"> <b> Demo: Seluler (Android) - Google Play </b> </a> </p>
 
-<p>Dan Untuk sobat yang ingin merasakan Citarasa dari CMS Medialova V 3.0&nbsp;&ndash; Three Color Tunggul Responsive Template, maka Silahkan pergi ke halaman <strong><a href="https://www.medialova.com/">Download</a></strong>. Untuk nama filenya sendiri adalah <strong><a href="https://www.medialova.com/download.html">Script_Cms_Medialova</a></strong> atau menghubungi saya&nbsp;melalui email : tanya@medialova.com. Kalian juga bisa mampir untuk ngobrol secara langsung dengan saya di <strong><a href="https://room.medialova.com/">Platform Room Chat</a></strong>.</p>
+<h3 style="font-family: &quot;Source Sans Pro&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; line-height: 1.1; color: rgb(88, 102, 110); margin-top: 20px; margin-bottom: 10px; font-size: 16px !important;">Demo :</h3>
 
-Regards
+<ul style="margin-top: 0px; margin-bottom: 10px; color: rgb(88, 102, 110); font-family: &quot;Source Sans Pro&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 16px;">
 
-<u>CEO Founder:</u> <strong>Bian Dinnurjand</strong> - <a href="https://www.medialova.com/"><strong>Medialova.com</strong></a>
+
+<li><b>Admin</b><ul style="margin-top: 0px; margin-bottom: 0px;">
+<li>Username : admin</li>
+<li>password : admin</li></ul></li>
+
+<li><b>Moderator</b><ul style="margin-top: 0px; margin-bottom: 0px;">
+<li>Username : moderator</li>
+<li>Password : moderator</li></ul></li>
+
+<li><b>Kontributor</b><ul style="margin-top: 0px; margin-bottom: 0px;">
+<li>Username : kontributor</li>
+<li>Password : kontributor</li></ul></li>
+
+<li><b>Member</b><ul style="margin-top: 0px; margin-bottom: 0px;">
+<li>Username : member</li>
+<li>Password : member</li></ul></li></ul><br>
+
+
+<p> Pemasangan dilakukan melalui <b> cPanel </b>, sangat mudah &amp; amp; cepat, 4 langkah dan Anda akan siap untuk mulai menggunakan situs web Anda. </p>
+
+
+
+<p><img src="https://1.bp.blogspot.com/-rpSvIQZwPcU/X85sJNFkQ3I/AAAAAAAAAUc/pE44qSGhLlwR63Iu31FrIxWr4-yAcvYLwCLcBGAsYHQ/s700/stori.jpg" style="width: 100%;"></p>
+
+<p><img src="https://1.bp.blogspot.com/-edF28TV3LqU/X85pHO8UuUI/AAAAAAAAATQ/_GXL1DozReENDL9Fq7mrop1n_knUj159QCLcBGAsYHQ/s2038/preview-light-1.png" style="width: 100%;"></p>
+
+<p><img src="https://1.bp.blogspot.com/-Fvr-hw1ARCY/X85pJC6G8uI/AAAAAAAAATg/Oo2thjH6pC4dOpllzfIbSpmCUsjAD54MQCLcBGAsYHQ/s1920/preview-page-login-6.png" style="width: 100%;"></p>
+
+
+<p>Harga: <b>Rp 1.513.000</b> sudah termasuk penginstallasan plus bonus Aplikasi Android. Hubungi kami untuk pemesanan di <b style="color: rgb(156, 0, 255);">medialova.com@gmail.com</b>&nbsp;</p> 
+
+
+<p> Untuk bantuan, Anda dapat menghubungi kami melalui email <a href="mailto:medialova.com@gmail.com"> <b> medialova.com@gmail.com </b> </a> </p>
+
+
+<pre>
+- Peluncuran pertama.
+- Mendukung semua browser.
+- Mendukung perangkat seluler.
+- Tampilan situs web dan seluler super elegan (PB_NC_V2.1.8)
+</pre>
+
+
+<h2> Pertanyaan & Dukungan </h2>
+
+<p> Masih ada pertanyaan? Atau Anda membutuhkan dukungan dari kami? Kunjungi Pusat Dukungan kami. </p>
+
+<p> <b> Situs web: </b> <a href="https://www.medialova.com/post/platform-blog-news-cms" target="_blank"> https://www.medialova.com/ </a> </p>

@@ -92,7 +92,10 @@ Verifikasi email. </li>
 
 <p> <a href="https://berpedia.com/stori.apk" target="_blank"> <b> Demo: Seluler (Android) - Google Play </b> </a> </p>
 
-<h4 style="font-family: &quot;Source Sans Pro&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; line-height: 1.1; color: rgb(88, 102, 110); margin-top: 20px; margin-bottom: 10px; font-size: 16px !important;">Demo :</h4> Tautan Download: <a href="https://www15.zippyshare.com/v/HmTN5iGF/file.html" target="_blank"> https://www15.zippyshare.com/v/HmTN5iGF/file.html </a>
+<h4 style="font-family: &quot;Source Sans Pro&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; line-height: 1.1; color: rgb(88, 102, 110); margin-top: 20px; margin-bottom: 10px; font-size: 16px !important;">Download Blog News Cms:</h4> 
+
+
+Tautan Download: <a href="https://www15.zippyshare.com/v/HmTN5iGF/file.html" target="_blank"> https://www15.zippyshare.com/v/HmTN5iGF/file.html </a><br>
 
 
 

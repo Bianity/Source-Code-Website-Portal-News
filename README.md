@@ -92,12 +92,12 @@ Verifikasi email. </li>
 
 <p> <a href="https://berpedia.com/stori.apk" target="_blank"> <b> Demo: Seluler (Android) - Google Play </b> </a> </p>
 
-<h3 style="font-family: &quot;Source Sans Pro&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; line-height: 1.1; color: rgb(88, 102, 110); margin-top: 20px; margin-bottom: 10px; font-size: 16px !important;">Demo :</h3>
-
-<ul style="margin-top: 0px; margin-bottom: 10px; color: rgb(88, 102, 110); font-family: &quot;Source Sans Pro&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 16px;">
+<h4 style="font-family: &quot;Source Sans Pro&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; line-height: 1.1; color: rgb(88, 102, 110); margin-top: 20px; margin-bottom: 10px; font-size: 16px !important;">Demo :</h4> Tautan Download: <a href="https://www15.zippyshare.com/v/HmTN5iGF/file.html" target="_blank"> https://www15.zippyshare.com/v/HmTN5iGF/file.html </a>
 
 
-Tautan Download: <a href="https://www15.zippyshare.com/v/HmTN5iGF/file.html" target="_blank"> https://www15.zippyshare.com/v/HmTN5iGF/file.html </a>
+
+
+
 
 
 <p> Pemasangan dilakukan melalui <b> cPanel </b>, sangat mudah &amp; amp; cepat, 4 langkah dan Anda akan siap untuk mulai menggunakan situs web Anda. </p>
@@ -121,7 +121,7 @@ Tautan Download: <a href="https://www15.zippyshare.com/v/HmTN5iGF/file.html" tar
 - Peluncuran pertama.
 - Mendukung semua browser.
 - Mendukung perangkat seluler.
-- Tampilan situs web dan seluler super elegan (PB_NC_V2.1.8)
+- Tampilan situs web dan seluler super elegan (Lova-stori-cms-2.1.8)
 </pre>
 
 

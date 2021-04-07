@@ -1,6 +1,6 @@
 <p><img src="https://1.bp.blogspot.com/-EC17o-aoZ7c/X85uL6mPG0I/AAAAAAAAAUw/S1Cj5YFujgE1oHjYvVBtC07jQ3iiTdGiQCLcBGAsYHQ/s900/01_preview-1.jpg" style="width: 100%;"></p>
 
-<p><b><a href="https://www.medialova.com/post/platform-blog-news-cms" target="_blank">Platform &amp; Blog News Cms</a></b> adalah script PHP yang sepenuhnya responsive &amp; multiguna dengan tampilan yang super elegant dibalut warna-warna gradien, tentunya hal ini akan membuat kreator semakin betah dalam mengerjakan projectnya. Platform ini bisa digunakan untuk blog, portofolio, atau apapun. Dengan dasbor yang lebih canggih, Anda dapat melihat siapa yang mengunjungi situs web Anda, negara mereka, halaman mana yang paling menarik bagi mereka, perangkat apa yang mereka gunakan, sistem operasi ... dan banyak lagi.</p>
+<p><b><a href="https://berpedia.com/post/platform-blog-news-cms" target="_blank">Platform &amp; Blog News Cms</a></b> adalah script PHP yang sepenuhnya responsive &amp; multiguna dengan tampilan yang super elegant dibalut warna-warna gradien, tentunya hal ini akan membuat kreator semakin betah dalam mengerjakan projectnya. Platform ini bisa digunakan untuk blog, portofolio, atau apapun. Dengan dasbor yang lebih canggih, Anda dapat melihat siapa yang mengunjungi situs web Anda, negara mereka, halaman mana yang paling menarik bagi mereka, perangkat apa yang mereka gunakan, sistem operasi ... dan banyak lagi.</p>
 
 <p>Platform ini memiliki generator peta situs otomatis, mendukung buletin, banyak peran pengguna (administrator, penulis dan moderator), memiliki sistem pemulihan untuk posting, halaman, komentar Anda ..., Anda dapat menambahkan halaman sebanyak yang Anda inginkan, kategori dan subkategori , menu navigasi yang dapat diurutkan, beberapa gaya tema (gelap &amp; terang), waktu pemuatan cepat, ramah seo, mudah dipasang dan mudah digunakan, dan banyak lagi.</p>
 
@@ -88,30 +88,16 @@ Verifikasi email. </li>
 <p><img src="https://1.bp.blogspot.com/-bosoOnfaFwM/X85pI_tIWvI/AAAAAAAAATk/UvjUOIBAkEEP7YGkafPQWYG32SmOMFHrgCLcBGAsYHQ/s2048/preview-page-admin-5.png" style="width: 100%;"></p><br>
 
 
-<p> <a href="https://www.stori.id/" target="_blank"> <b> Demo: Versi situs web </b> </a> </p>
+<p> <a href="https://berpedia.com/" target="_blank"> <b> Demo: Versi situs web </b> </a> </p>
 
-<p> <a href="https://play.google.com/store/apps/details?id=com.medialova.id" target="_blank"> <b> Demo: Seluler (Android) - Google Play </b> </a> </p>
+<p> <a href="https://berpedia.com/stori.apk" target="_blank"> <b> Demo: Seluler (Android) - Google Play </b> </a> </p>
 
 <h3 style="font-family: &quot;Source Sans Pro&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; line-height: 1.1; color: rgb(88, 102, 110); margin-top: 20px; margin-bottom: 10px; font-size: 16px !important;">Demo :</h3>
 
 <ul style="margin-top: 0px; margin-bottom: 10px; color: rgb(88, 102, 110); font-family: &quot;Source Sans Pro&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 16px;">
 
 
-<li><b>Admin</b><ul style="margin-top: 0px; margin-bottom: 0px;">
-<li>Username : admin</li>
-<li>password : admin</li></ul></li>
-
-<li><b>Moderator</b><ul style="margin-top: 0px; margin-bottom: 0px;">
-<li>Username : moderator</li>
-<li>Password : moderator</li></ul></li>
-
-<li><b>Kontributor</b><ul style="margin-top: 0px; margin-bottom: 0px;">
-<li>Username : kontributor</li>
-<li>Password : kontributor</li></ul></li>
-
-<li><b>Member</b><ul style="margin-top: 0px; margin-bottom: 0px;">
-<li>Username : member</li>
-<li>Password : member</li></ul></li></ul><br>
+Tautan Download: <a href="https://www15.zippyshare.com/v/HmTN5iGF/file.html" target="_blank"> https://www15.zippyshare.com/v/HmTN5iGF/file.html </a>
 
 
 <p> Pemasangan dilakukan melalui <b> cPanel </b>, sangat mudah &amp; amp; cepat, 4 langkah dan Anda akan siap untuk mulai menggunakan situs web Anda. </p>
@@ -143,4 +129,4 @@ Verifikasi email. </li>
 
 <p> Masih ada pertanyaan? Atau Anda membutuhkan dukungan dari kami? Kunjungi Pusat Dukungan kami. </p>
 
-<p> <b> Situs web: </b> <a href="https://www.medialova.com/post/platform-blog-news-cms" target="_blank"> https://www.medialova.com/ </a> </p>
+<p> <b> Situs web: </b> <a href="https://berpedia.com/post/platform-blog-news-cms" target="_blank"> https://berpedia.com/ </a> </p>

@@ -88,9 +88,9 @@ Verifikasi email. </li>
 <p><img src="https://1.bp.blogspot.com/-bosoOnfaFwM/X85pI_tIWvI/AAAAAAAAATk/UvjUOIBAkEEP7YGkafPQWYG32SmOMFHrgCLcBGAsYHQ/s2048/preview-page-admin-5.png" style="width: 100%;"></p><br>
 
 
-<p> <a href="https://berpedia.com/" target="_blank"> <b> Demo: Versi situs web </b> </a> </p>
+<p> <a href="https://bianity.net/" target="_blank"> <b> Demo: Versi situs web </b> </a> </p>
 
-<p> <a href="https://berpedia.com/stori.apk" target="_blank"> <b> Demo: Seluler (Android) - Google Play </b> </a> </p>
+<p> <a href="https://bianity.net/bianity.apk" target="_blank"> <b> Demo: Seluler (Android) - Google Play </b> </a> </p>
 
 <h4 style="font-family: &quot;Source Sans Pro&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; line-height: 1.1; color: rgb(88, 102, 110); margin-top: 20px; margin-bottom: 10px; font-size: 16px !important;">Download Blog News Cms:</h4> 
 

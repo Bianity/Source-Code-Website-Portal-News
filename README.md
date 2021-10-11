@@ -117,7 +117,7 @@ Tautan Download: <a href="https://www15.zippyshare.com/v/HmTN5iGF/file.html" tar
 <p>Harga: <b>Rp 1.513.000</b> sudah termasuk penginstallasan plus bonus Aplikasi Android. Hubungi kami untuk pemesanan di <b style="color: rgb(156, 0, 255);">medialova.com@gmail.com</b>&nbsp;</p> 
 
 
-<p> Untuk bantuan, Anda dapat menghubungi kami melalui email <a href="mailto:medialova.com@gmail.com"> <b> medialova.com@gmail.com </b> </a> </p>
+<p> Untuk bantuan, Anda dapat menghubungi kami melalui email <a href="mailto:bianitydotcom@gmail.com"> <b> bianitydotcom@gmail.com </b> </a> </p>
 
 
 <pre>
@@ -132,4 +132,4 @@ Tautan Download: <a href="https://www15.zippyshare.com/v/HmTN5iGF/file.html" tar
 
 <p> Masih ada pertanyaan? Atau Anda membutuhkan dukungan dari kami? Kunjungi Pusat Dukungan kami. </p>
 
-<p> <b> Situs web: </b> <a href="https://berpedia.com/post/platform-blog-news-cms" target="_blank"> https://berpedia.com/ </a> </p>
+<p> <b> Situs web: </b> <a href="https://bianity.net/post/platform-blog-news-cms" target="_blank"> https://bianity.net/ </a> </p>

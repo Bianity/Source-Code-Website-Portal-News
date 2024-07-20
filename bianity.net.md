@@ -14,7 +14,7 @@
 <p>&bull; Wajib memiliki Hosting<br />&bull; Wajib memiliki Domain<br />&bull; Versi PHP 7.2<br />&bull; Versi MySQL 5.7<br />&bull; Jika kesulitan cara install, kamu bisa menghubungi saya.</p>
 <p><span>Pemasangan dilakukan melalui&nbsp;</span><b>cPanel<span>&nbsp;</span></b><span>, sangat mudah &amp; amp; cepat, 4 langkah dan kamu akan siap untuk mulai menggunakan situs web Anda.</span></p>
 <p>Harga:<span>&nbsp;</span><b>Rp 4.513.000</b><span>&nbsp;</span>sudah termasuk penginstallasan. Hubungi kami untuk pemesanan di<span>&nbsp;</span><b>bianity.co.id@gmail.com</b>&nbsp;</p>
-<p>Untuk bantuan, kamu dapat menghubungi kami melalui email<span>&nbsp;</span><a href="mailto:bianity.co.id@gmail.com"><b>bianity.net@gmail.com</b></a></p>
+<p>Untuk bantuan, kamu dapat menghubungi kami melalui email<span>&nbsp;</span><a href="mailto:bianity.co.id@gmail.com"><b>bianity.co.id@gmail.com</b></a></p>
 <pre>- Peluncuran pertama.
 - Mendukung semua browser.
 - Mendukung perangkat seluler.
